@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Jacquelyn!%20&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Systems+Thinker;Always+A+Student+To+The+Game!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Systems+Thinker;Data+Analyst;FinTech;Logistics+Supply+Chain;Algorithmic+Trading;Always+A+Student+To+The+Game!)](https://git.io/typing-svg)
 
 ---
 
@@ -44,7 +44,7 @@ I work at the intersection of data, systems, and markets — building analytical
 
 ---
 
-## 📊 Focus Areas
+## Focus Areas
 
 ```
 Logistics Supply chain modeling, route optimization, inventory analytics
@@ -54,11 +54,11 @@ Algo Trading Strategy development, backtesting, market microstructure
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
-- 🚚 **Logistics Dashboard** — Tracking KPIs across supply chain nodes using SQL + Tableau
-- 📈 **Trading Strategy Backtester** — Building a Python-based framework to test systematic strategies on historical market data
-- 💳 **FinTech Data Pipeline** — Analyzing transaction datasets to surface behavioral and risk patterns
+-  **Logistics Dashboard** — Tracking KPIs across supply chain nodes using SQL + Tableau
+-  **Trading Strategy Backtester** — Building a Python-based framework to test systematic strategies on historical market data
+- **FinTech Data Pipeline** — Analyzing transaction datasets to surface behavioral and risk patterns
 
 ---
 
