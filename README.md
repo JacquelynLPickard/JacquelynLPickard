@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Jacquelyn!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Data+Enthusiast+🔥;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Systems+Thinker🔥;Always+A+Student+To+The+Game!)](https://git.io/typing-svg)
 
 ---
 
