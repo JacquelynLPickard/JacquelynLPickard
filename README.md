@@ -19,7 +19,7 @@ I work at the intersection of data, systems, and markets — building analytical
 
 ## What I'm Building Toward
 
-- **Logistics Analytics** — Modeling supply chain efficiency, demand forecasting, and operational bottlenecks using data-driven methods
+- **Logistics Analytics** — Modeling supply chain efficiency, demand forecasting, and operational bottlenecks
 - **FinTech Data Analysis** — Exploring financial data pipelines, payment systems, and market structure through quantitative analysis
 - **Algorithmic Trading** — Developing systematic trading strategies grounded in statistical rigor and backtested performance
 
