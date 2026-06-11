@@ -11,7 +11,7 @@
 ### About Me 
 
 
-**Data Analyst | Logistics & Supply Chain | FinTech | Algorithmic Trading**
+**Data Analyst | Logistics | Financial Services | Trading**
 
 I work at the intersection of data, systems, and markets — building analytical frameworks that turn complex datasets into decisions. My focus spans three domains: the flow of goods, the flow of capital, and the automation of both.
 
@@ -25,16 +25,16 @@ I work at the intersection of data, systems, and markets — building analytical
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Languages**
 `Python` `SQL` `R`
 
 **Data & Analysis**
-`Pandas` `NumPy` `dplyr` `tidyr`
+`Pandas` `NumPy` 
 
 **Visualization**
-`Tableau` `Matplotlib` `Seaborn` `ggplot2`
+`Tableau` 
 
 **Spreadsheets**
 `Excel` `Google Sheets`
@@ -56,21 +56,20 @@ Algo Trading Strategy development, backtesting, market microstructure
 
 ## Current Projects
 
--  **Logistics Dashboard** — Tracking KPIs across supply chain nodes using SQL + Tableau
--  **Trading Strategy Backtester** — Building a Python-based framework to test systematic strategies on historical market data
-- **FinTech Data Pipeline** — Analyzing transaction datasets to surface behavioral and risk patterns
+-  **Uber SQL Database | Kaggle** — Surge pricing analysis, driver churn & retention, customer cohort analysis, and windows functions & CTEs 
+-  **Data Analytics Capstone Project** — Real data analysis using Python and SQL, 4 custom charts and visualizations, a live Tableau dashboard, and a professional GitHub portfolio project 
 
 ---
 
 ---
-### 🌐 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacquelyn-l-pickard-0b9a763aa/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jacquelynlpickard)
 
 ---
 
-### 🛠️ My Favourite Tools
+### My Favourite Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
