@@ -11,7 +11,7 @@
 ### About Me 
 
 
-**Data Analyst | Logistics | Financial Services | Trading**
+**Data Analyst | Financial Services | Logistics | Trading**
 
 I work at the intersection of data, systems, and markets — building analytical frameworks that turn complex datasets into decisions. My focus spans three domains: the flow of goods, the flow of capital, and the automation of both.
 
