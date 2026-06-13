@@ -56,8 +56,9 @@ Algo Trading Strategy development, backtesting, market microstructure
 
 ## Current Projects
 
--  **Uber SQL Database | Kaggle** — Surge pricing analysis, driver churn & retention, customer cohort analysis, and windows functions
--  **Data Analytics Capstone Project** — Real data analysis using Python and SQL, 4 custom charts and visualizations, a live Tableau dashboard, and a professional GitHub portfolio project 
+-  **Excel & Google Sheets Data Analysis** — Data cleaning, pivot tables, and visualizations to build foundational spreadsheet analysis skills
+-  **Retail Sales SQL Analysis** - SQL analysis of a simulated retail sales database covering customers, employees, products, and orders
+-  **Diesel Price Volatility & Trucking Cost Analysis** — Analyzing how diesel price fluctuations impact fleet operating costs using the Google Data Analytics framework 
 
 ---
 
