@@ -56,9 +56,9 @@ Algo Trading Strategy development, backtesting, market microstructure
 
 ## Current Projects
 
--  **Excel & Google Sheets Data Analysis** — Data cleaning, pivot tables, and visualizations to build foundational spreadsheet analysis skills
--  **Retail Sales SQL Analysis** - SQL analysis of a simulated retail sales database covering customers, employees, products, and orders
--  **Diesel Price Volatility & Trucking Cost Analysis** — Analyzing how diesel price fluctuations impact fleet operating costs using the Google Data Analytics framework 
+-  **Excel & Google Sheets Data Analysis** Data cleaning, pivot tables, and visualizations to build foundational spreadsheet analysis
+-  **Retail Sales SQL Analysis** SQL analysis of a simulated retail sales database covering customers, employees, products, and orders
+-  **Diesel Price Volatility & Trucking Cost Analysis** Analyzing how diesel price fluctuations impact fleet operating costs
 
 ---
 
